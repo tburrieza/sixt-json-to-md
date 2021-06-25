@@ -1,0 +1,80 @@
+[
+    {
+        "uid": 322386,
+        "CType": "container",
+        "title": "Cosas que debe conocer antes de alquilar un coche en Dinamarca",
+        "title_hidden": false
+    },
+    {
+        "uid": 322380,
+        "CType": "accordion",
+        "title": "",
+        "description": null,
+        "elements": [
+            {
+                "title": "Servicio de entrega y recogida",
+                "description": "<p>En Dinamarca se permiten las entregas y recogidas en determinados lugares por un cargo adicional. No se permiten las entrega y recogidas fuera del horario de apertura.<\/p>"
+            }
+        ]
+    },
+    {
+        "uid": 322381,
+        "CType": "accordion",
+        "title": "",
+        "description": null,
+        "elements": [
+            {
+                "title": "Alquiler de coches de ida",
+                "description": "<p>Los alquileres de ida en Dinamarca est\u00e1n permitidos. Los alquileres de un trayecto internacionales solo est\u00e1n permitidos bajo petici\u00f3n.<\/p>"
+            }
+        ]
+    },
+    {
+        "uid": 322382,
+        "CType": "accordion",
+        "title": "",
+        "description": null,
+        "elements": [
+            {
+                "title": "Viajes al extranjero",
+                "description": "<p>Para poder viajar al extranjero, se debe abonar una tarifa adicional por d\u00eda. Todos los viajes al extranjero deben solicitarse en la oficina de recogida.<\/p>"
+            }
+        ]
+    },
+    {
+        "uid": 322383,
+        "CType": "accordion",
+        "title": "",
+        "description": null,
+        "elements": [
+            {
+                "title": "M\u00e9todos de pago disponibles",
+                "description": "<p>Se aceptan las tarjetas de cr\u00e9dito de entidades reconocidas internacionalmente como Diners Club, Visa, American Express o MasterCard. No se aceptan tarjetas de cr\u00e9dito de terceros ni tarjetas prepago.<\/p>"
+            }
+        ]
+    },
+    {
+        "uid": 322384,
+        "CType": "accordion",
+        "title": "",
+        "description": null,
+        "elements": [
+            {
+                "title": "Edad m\u00ednima para alquilar en Dinamarca",
+                "description": "<p>Se pueden alquilar veh\u00edculos a partir de los 20 a\u00f1os. Los conductores tambi\u00e9n deben poseer un permiso de conducir v\u00e1lido con una antig\u00fcedad de al menos 1 a\u00f1o.<\/p>"
+            }
+        ]
+    },
+    {
+        "uid": 322385,
+        "CType": "accordion",
+        "title": "",
+        "description": null,
+        "elements": [
+            {
+                "title": "Modificaciones y cancelaciones en Dinamarca",
+                "description": "<p>Si decide pagar en la oficina, podr\u00e1 cancelar o modificar sus reservas sin coste alguno.<\/p>"
+            }
+        ]
+    }
+]
